@@ -1,0 +1,1 @@
+{"uuid":"3bd9e16c-bcee-4473-a075-53e31211aa05","name":"Tests.P01_TestBase.Quit","children":["a3a41e24-5a3d-40e2-9168-1589bf43e739"],"description":"","befores":[],"afters":[{"name":"Quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1736347873054,"stop":1736347873054}],"start":1736347873054,"stop":1736347873054}
